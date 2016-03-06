@@ -2,6 +2,8 @@
 
 Stuff you need to start a WordPress project with Bootstrap and Sass.
 
+Will this work?
+
 [Bootstrap](http://twitter.github.com/bootstrap) in Wordpress theme by [WordPress Bootstrap](https://github.com/320press/wordpress-bootstrap) which is based on [Bones](https://github.com/eddiemachado/bones) with the awesome addition of [sass-twitter-bootstrap](https://github.com/jlong/sass-twitter-bootstrap).
 
 ## Discrepancies from [WordPress Bootstrap](https://github.com/320press/wordpress-bootstrap)
